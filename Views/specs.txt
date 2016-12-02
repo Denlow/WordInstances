@@ -1,0 +1,9 @@
+Pass multiple words into Form
+
+Push multiple words into array
+
+Push words into list
+
+If characters match, instances show
+
+Count however many instances show in a feasible paragraph.
