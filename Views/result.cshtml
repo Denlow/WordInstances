@@ -1,0 +1,10 @@
+<h1>Resulting Instances</h1>
+<a href="/">Home</a>
+
+@{
+  foreach (var letter in Model.LetterList())
+  {
+    <p>@letter</p>
+  }
+
+}
